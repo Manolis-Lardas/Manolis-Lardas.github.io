@@ -1,4 +1,4 @@
-.horizontal {
+.navigation-bar {
   display: flex;
   list-style: none;
   padding: 0;
@@ -6,13 +6,13 @@
   gap: 1rem;
   background-color: #111;
 }
-.horizontal a {
+.navigation-bar a {
   display: block;
   color: white;
   text-decoration: none;
   padding: 14px 20px;
 }
-.horizontal a:hover {
+.navigation-bar a:hover {
   text-decoration: underline;
   background-color: #333;
 }
