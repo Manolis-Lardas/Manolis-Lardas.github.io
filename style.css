@@ -42,15 +42,15 @@
 .about-text a {
   color: inherit;
 }
-.publication {
+.publication-presentation {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid #ddd;
 }
-.publication h3 {
+.publication-presentation h3 {
   margin-bottom: 0.3rem;
 }
-.publication p {
+.publication-presentation p {
   margin: 0.3rem 0;
   padding-bottom: 1rem;
   color: #555;
