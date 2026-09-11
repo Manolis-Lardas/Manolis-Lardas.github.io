@@ -40,7 +40,7 @@
   color: #444;
 }
 .about-text a {
-  color: inherit;
+  color: #444;
 }
 .publication-presentation {
   margin-bottom: 2rem;
@@ -83,4 +83,15 @@
 .seminar a:hover {
   color: #111;
   text-decoration: underline;
+}
+.contact {
+  display: flex;
+  align-items: center;
+}
+.contact-text p {
+  line-height: 1.6;
+  color: #444;
+}
+.contact-text a {
+  color: #444;
 }
